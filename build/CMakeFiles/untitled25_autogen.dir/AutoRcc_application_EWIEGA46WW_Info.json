@@ -1,0 +1,34 @@
+{
+	"BUILD_DIR" : "/Users/germanalbershteyn/CLionProjects/untitled25/build/untitled25_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/germanalbershteyn/CLionProjects/untitled25/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/germanalbershteyn/CLionProjects/untitled25/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/germanalbershteyn/CLionProjects/untitled25",
+	"CMAKE_SOURCE_DIR" : "/Users/germanalbershteyn/CLionProjects/untitled25",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/Users/germanalbershteyn/CLionProjects/untitled25/build/untitled25_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/horse1.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/rook1.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/queen1.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/pawn1.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/king1.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/horse.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/rook.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/queen.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/bishop.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/pawn.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/king.png",
+		"/Users/germanalbershteyn/CLionProjects/untitled25/Images/bishop1.png"
+	],
+	"LOCK_FILE" : "/Users/germanalbershteyn/CLionProjects/untitled25/build/CMakeFiles/untitled25_autogen.dir/AutoRcc_application_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "application" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_application.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/germanalbershteyn/CLionProjects/untitled25/build/CMakeFiles/untitled25_autogen.dir/AutoRcc_application_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/germanalbershteyn/CLionProjects/untitled25/application.qrc",
+	"VERBOSITY" : 0
+}

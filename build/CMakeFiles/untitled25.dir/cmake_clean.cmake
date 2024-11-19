@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/untitled25_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/untitled25_autogen.dir/ParseCache.txt"
+  "untitled25_autogen"
+  "CMakeFiles/untitled25.dir/Bishop.cpp.o"
+  "CMakeFiles/untitled25.dir/Bishop.cpp.o.d"
+  "CMakeFiles/untitled25.dir/ChessBoard.cpp.o"
+  "CMakeFiles/untitled25.dir/ChessBoard.cpp.o.d"
+  "CMakeFiles/untitled25.dir/ChessSquare.cpp.o"
+  "CMakeFiles/untitled25.dir/ChessSquare.cpp.o.d"
+  "CMakeFiles/untitled25.dir/Figure.cpp.o"
+  "CMakeFiles/untitled25.dir/Figure.cpp.o.d"
+  "CMakeFiles/untitled25.dir/Game.cpp.o"
+  "CMakeFiles/untitled25.dir/Game.cpp.o.d"
+  "CMakeFiles/untitled25.dir/Horse.cpp.o"
+  "CMakeFiles/untitled25.dir/Horse.cpp.o.d"
+  "CMakeFiles/untitled25.dir/King.cpp.o"
+  "CMakeFiles/untitled25.dir/King.cpp.o.d"
+  "CMakeFiles/untitled25.dir/Pawn.cpp.o"
+  "CMakeFiles/untitled25.dir/Pawn.cpp.o.d"
+  "CMakeFiles/untitled25.dir/Queen.cpp.o"
+  "CMakeFiles/untitled25.dir/Queen.cpp.o.d"
+  "CMakeFiles/untitled25.dir/Rook.cpp.o"
+  "CMakeFiles/untitled25.dir/Rook.cpp.o.d"
+  "CMakeFiles/untitled25.dir/main.cpp.o"
+  "CMakeFiles/untitled25.dir/main.cpp.o.d"
+  "CMakeFiles/untitled25.dir/untitled25_autogen/EWIEGA46WW/qrc_application.cpp.o"
+  "CMakeFiles/untitled25.dir/untitled25_autogen/EWIEGA46WW/qrc_application.cpp.o.d"
+  "CMakeFiles/untitled25.dir/untitled25_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/untitled25.dir/untitled25_autogen/mocs_compilation.cpp.o.d"
+  "untitled25.app/Contents/MacOS/untitled25"
+  "untitled25.pdb"
+  "untitled25_autogen/EWIEGA46WW/qrc_application.cpp"
+  "untitled25_autogen/mocs_compilation.cpp"
+  "untitled25_autogen/timestamp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/untitled25.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
